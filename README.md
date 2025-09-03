@@ -5,7 +5,9 @@ Branch name should match the ticket name.
 Branches are created from the dev branch.
 
 
-🛠 To start working on your ticket:=============================================
+🛠 To start working on your ticket:==================
+
+
 git fetch origin
 git checkout <your-ticket-name>     # e.g. ft/000_test
 git pull origin dev
@@ -15,8 +17,10 @@ Keep your branch updated regularly with the dev branch
 ✅ If there are no conflicts, you’re ready to start coding!
 
 
-✅  Committing & Pushing Your Work=====================================================================================
+✅  Committing & Pushing Your Work=================
+
 Once you've completed your assigned task:
+
 
 git checkout <your-ticket-branch>      # Switch to your working branch
 
