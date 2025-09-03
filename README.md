@@ -9,7 +9,9 @@ Branches are created from the dev branch.
 
 
 git fetch origin
+
 git checkout <your-ticket-name>     # e.g. ft/000_test
+
 git pull origin dev
 
 
