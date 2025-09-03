@@ -1,0 +1,34 @@
+0:01:02 Tab9 StartNav125 #typed
+0:01:02 Tab9 FinishNav125 ERR_ABORTED
+0:01:02 Tab9 StartNav126 #typed
+0:01:02 Tab9 FinishNav126 ERR_ABORTED
+0:01:02 Tab9 StartNav127 #typed
+0:01:02 Tab9 FinishNav127 ERR_ABORTED
+0:01:02 Tab9 StartNav128 #typed
+0:01:02 Tab9 FinishNav128 ERR_ABORTED
+0:01:02 Tab9 StartNav129 #typed
+0:01:02 Tab9 FinishNav129 ERR_ABORTED
+0:01:02 Tab9 StartNav130 #typed
+0:01:02 Tab9 FinishNav130 ERR_ABORTED
+0:01:02 Tab9 StartNav131 #typed
+0:01:02 Tab9 FinishNav131 ERR_ABORTED
+0:01:02 Tab9 StartNav132 #typed
+0:01:02 Tab9 FinishNav132 ERR_ABORTED
+0:01:02 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:01:02 Browser9 Close Tab9 at 0
+0:01:02 Tab9 WebContentsDestroyed
+0:01:02 Microsoft.UnloadController.TabStripEmpty
+0:01:02 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:01:02 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:01:02 Microsoft.Shutdown.OnWindowClosing
+0:01:02 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:01:02 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:01:02 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:01:02 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:01:02 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:01:02 Widget Closed: BrowserFrame
+0:01:02 Microsoft.Browser_Removed
+0:01:15 Tab2 StartNav134 #typed
+0:01:15 Tab2 FinishNav134
+0:01:15 Tab2 PageLoad
+0:01:24 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
